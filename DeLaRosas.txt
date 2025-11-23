@@ -1,0 +1,79 @@
+----------------------------------------------------
+[Flower Name:]
+    @ Common Name: Zerose
+    @ Scientific Name: Zeroth Rosus
+    @ Cultivar: -
+    @ ----
+    @ Family: Rosaceae
+    @ Genus: Rosa
+    @ Species: Zerosa
+    @ ----
+    @ Floriography: Zero
+    @ Etymology: From Latin rosa
+    @ ----
+    @ Flower Color/s: Black & White
+    @ Petal Count/s: 0
+    @ Petal Shape/s: Hypershape
+    @ Fragrance: Strong
+    @ Height: 0-1 meters
+    @ Stem Type: Straight
+    @ Root Type: Fibrous
+    @ Bloom Shape: Double, Inf
+    @ Texture: Nothing
+    @ ----
+    @ Bloom Calendar: None
+    @ Seasonal Conditions: None
+    @ Natural Habitat: None
+----------------------------------------------------
+[Flower Name:]
+    @ Common Name: Rainbow Rose
+    @ Scientific Name: Chromarosa
+    @ Cultivar: -
+    @ ----
+    @ Family: Rosaceae
+    @ Genus: Rosa
+    @ Species: Chromarosus
+    @ ----
+    @ Floriography: Colors
+    @ Etymology: From Latin rosa
+    @ ----
+    @ Flower Color/s: Rainbow
+    @ Petal Count/s: 26
+    @ Petal Shape/s: Rounded, overlapping
+    @ Fragrance: Strong, sweet
+    @ Height: 1-2 meters
+    @ Stem Type: Woody, thorny
+    @ Root Type: Fibrous
+    @ Bloom Shape: Double, cup-shaped
+    @ Texture: Soft
+    @ ----
+    @ Bloom Calendar: All
+    @ Seasonal Conditions: All
+    @ Natural Habitat: Garden, cultivated
+----------------------------------------------------
+[Flower Name:]
+    @ Common Name: Test Rose
+    @ Scientific Name: Rosa Test
+    @ Cultivar: -
+    @ ----
+    @ Family: Rosaceae
+    @ Genus: Rosa
+    @ Species: TestRosa
+    @ ----
+    @ Floriography: Testing purposes far eastern onward beloved alma mater onward oh lead us the green and gold in view in thy happy halls
+    @ Etymology: From Latin rosa
+    @ ----
+    @ Flower Color/s: White
+    @ Petal Count/s: 1-2
+    @ Petal Shape/s: Rounded, overlapping
+    @ Fragrance: Strong, sweet
+    @ Height: 1-2 meters
+    @ Stem Type: Woody, thorny
+    @ Root Type: Fibrous
+    @ Bloom Shape: Double, cup-shaped
+    @ Texture: Velvety
+    @ ----
+    @ Bloom Calendar: Spring to Autumn
+    @ Seasonal Conditions: Temperate, sunny
+    @ Natural Habitat: Garden, cultivated
+----------------------------------------------------
