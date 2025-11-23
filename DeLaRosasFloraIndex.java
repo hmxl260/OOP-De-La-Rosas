@@ -19,42 +19,42 @@ public class DeLaRosasFloraIndex {
     }
     
     public void run() {
-        Scanner scanner = new Scanner(System.in);
+        Scanner justInput = new Scanner(System.in);
         
         while (true) {
             displayMenu();
             System.out.print("\nChoose an option (1-7): ");
-            String choice = scanner.nextLine().trim();
+            String choice = justInput.nextLine().trim();
             
             switch (choice) {
                 case "1":
-                    searchByName(scanner);
+                    searchByName(justInput);
                     break;
                 case "2":
                     listAllFlowers();
                     break;
                 case "3":
-                    flowerIdentifier(scanner);
+                    flowerIdentifier(justInput);
                     break;
                 case "4":
-                    identifyFloriographyByName(scanner);
+                    identifyFloriographyByName(justInput);
                     break;
                 case "5":
-                    keywordSearchFloriography(scanner);
+                    keywordSearchFloriography(justInput);
                     break;
                 case "6":
-                    addNewFlowerEntry(scanner);
+                    addNewFlowerEntry(justInput);
                     break;
                 case "7":
                     System.out.println("Thank you for usnig De La Rosas - Flora Index!");
-                    scanner.close();
+                    justInput.close();
                     return;
                 default:
                     System.out.println("Invalid option. Please try again.");
             }
             
             System.out.println("\nPress Enter to continue...");
-            scanner.nextLine();
+            justInput.nextLine();
         }
     }
     
@@ -223,9 +223,9 @@ public class DeLaRosasFloraIndex {
         }
     }
     
-    private void searchByName(Scanner scanner) {
+    private void searchByName(Scanner justInput) {
         System.out.print("Enter flower name to search: ");
-        String searchTerm = scanner.nextLine().trim().toLowerCase();
+        String searchTerm = justInput.nextLine().trim().toLowerCase();
         
         List<Flower> matches = new ArrayList<>();
         for (Flower flower : flowers) {
@@ -242,29 +242,29 @@ public class DeLaRosasFloraIndex {
         displayFlowersInTable(flowers, "All Flowers");
     }
     
-    private void flowerIdentifier(Scanner scanner) {
+    private void flowerIdentifier(Scanner justInput) {
         System.out.println("Enter flower characteristics (type '-' to skip):");
         
         System.out.print("Flower Color/s: ");
-        String color = scanner.nextLine().trim();
+        String color = justInput.nextLine().trim();
         
         System.out.print("Petal Count/s: ");
-        String petalCount = scanner.nextLine().trim();
+        String petalCount = justInput.nextLine().trim();
         
         System.out.print("Petal Shape/s: ");
-        String petalShape = scanner.nextLine().trim();
+        String petalShape = justInput.nextLine().trim();
         
         System.out.print("Height: ");
-        String height = scanner.nextLine().trim();
+        String height = justInput.nextLine().trim();
         
         System.out.print("Stem Type: ");
-        String stemType = scanner.nextLine().trim();
+        String stemType = justInput.nextLine().trim();
         
         System.out.print("Root Type: ");
-        String rootType = scanner.nextLine().trim();
+        String rootType = justInput.nextLine().trim();
         
         System.out.print("Texture: ");
-        String texture = scanner.nextLine().trim();
+        String texture = justInput.nextLine().trim();
         
         List<Flower> matches = new ArrayList<>();
         for (Flower flower : flowers) {
@@ -309,9 +309,9 @@ public class DeLaRosasFloraIndex {
         return true;
     }
     
-    private void identifyFloriographyByName(Scanner scanner) {
+    private void identifyFloriographyByName(Scanner justInput) {
         System.out.print("Enter flower name: ");
-        String name = scanner.nextLine().trim().toLowerCase();
+        String name = justInput.nextLine().trim().toLowerCase();
         
         for (Flower flower : flowers) {
             if (flower.commonName.toLowerCase().contains(name) || 
@@ -324,9 +324,9 @@ public class DeLaRosasFloraIndex {
         System.out.println("Flower not found.");
     }
     
-    private void keywordSearchFloriography(Scanner scanner) {
+    private void keywordSearchFloriography(Scanner justInput) {
         System.out.print("Enter keyword to search in floriography: ");
-        String keyword = scanner.nextLine().trim().toLowerCase();
+        String keyword = justInput.nextLine().trim().toLowerCase();
         
         List<Flower> matches = new ArrayList<>();
         for (Flower flower : flowers) {
@@ -338,7 +338,7 @@ public class DeLaRosasFloraIndex {
         displayFloriographyResults(matches, keyword);
     }
     
-    private void addNewFlowerEntry(Scanner scanner) {
+    private void addNewFlowerEntry(Scanner justInput) {
         Flower newFlower = new Flower();
         
         System.out.println("Enter new flower details (type '-' to leave blank):");
@@ -346,72 +346,72 @@ public class DeLaRosasFloraIndex {
         System.out.println("[Flower Name:]");
         
         System.out.print("    @ Common Name: ");
-        newFlower.commonName = scanner.nextLine().trim();
+        newFlower.commonName = justInput.nextLine().trim();
         
         System.out.print("    @ Scientific Name: ");
-        newFlower.scientificName = scanner.nextLine().trim();
+        newFlower.scientificName = justInput.nextLine().trim();
         
         System.out.print("    @ Cultivar: ");
-        newFlower.cultivar = scanner.nextLine().trim();
+        newFlower.cultivar = justInput.nextLine().trim();
         
         System.out.println("    @ ----");
         
         System.out.print("    @ Family: ");
-        newFlower.family = scanner.nextLine().trim();
+        newFlower.family = justInput.nextLine().trim();
         
         System.out.print("    @ Genus: ");
-        newFlower.genus = scanner.nextLine().trim();
+        newFlower.genus = justInput.nextLine().trim();
         
         System.out.print("    @ Species: ");
-        newFlower.species = scanner.nextLine().trim();
+        newFlower.species = justInput.nextLine().trim();
         
         System.out.println("    @ ----");
         
         System.out.print("    @ Floriography: ");
-        newFlower.floriography = scanner.nextLine().trim();
+        newFlower.floriography = justInput.nextLine().trim();
         
         System.out.print("    @ Etymology: ");
-        newFlower.etymology = scanner.nextLine().trim();
+        newFlower.etymology = justInput.nextLine().trim();
         
         System.out.println("    @ ----");
         
         System.out.print("    @ Flower Color/s: ");
-        newFlower.flowerColors = scanner.nextLine().trim();
+        newFlower.flowerColors = justInput.nextLine().trim();
         
         System.out.print("    @ Petal Count/s: ");
-        newFlower.petalCounts = scanner.nextLine().trim();
+        newFlower.petalCounts = justInput.nextLine().trim();
         
         System.out.print("    @ Petal Shape/s: ");
-        newFlower.petalShapes = scanner.nextLine().trim();
+        newFlower.petalShapes = justInput.nextLine().trim();
         
         System.out.print("    @ Fragrance: ");
-        newFlower.fragrance = scanner.nextLine().trim();
+        newFlower.fragrance = justInput.nextLine().trim();
         
         System.out.print("    @ Height: ");
-        newFlower.height = scanner.nextLine().trim();
+        newFlower.height = justInput.nextLine().trim();
         
         System.out.print("    @ Stem Type: ");
-        newFlower.stemType = scanner.nextLine().trim();
+        newFlower.stemType = justInput.nextLine().trim();
         
         System.out.print("    @ Root Type: ");
-        newFlower.rootType = scanner.nextLine().trim();
+        newFlower.rootType = justInput.nextLine().trim();
         
         System.out.print("    @ Bloom Shape: ");
-        newFlower.bloomShape = scanner.nextLine().trim();
+        newFlower.bloomShape = justInput.nextLine().trim();
         
         System.out.print("    @ Texture: ");
-        newFlower.texture = scanner.nextLine().trim();
+        newFlower.texture = justInput.nextLine().trim();
         
         System.out.println("    @ ----");
         
         System.out.print("    @ Bloom Calendar: ");
-        newFlower.bloomCalendar = scanner.nextLine().trim();
+        newFlower.bloomCalendar = justInput.nextLine().trim();
         
         System.out.print("    @ Seasonal Conditions: ");
-        newFlower.seasonalConditions = scanner.nextLine().trim();
+        newFlower.seasonalConditions = justInput.nextLine().trim();
         
         System.out.print("    @ Natural Habitat: ");
-        newFlower.naturalHabitat = scanner.nextLine().trim();
+        newFlower.naturalHabitat = justInput.nextLine().trim();
         
         saveFlowerToFile(newFlower);
         flowers.add(newFlower);
