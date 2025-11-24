@@ -77,7 +77,7 @@
     @ Seasonal Conditions: Temperate, sunny
     @ Natural Habitat: Garden, cultivated
 ----------------------------------------------------
-[African violet:]
+[Flower Name:]
     @ Common Name: African Violet (syn. Saintpaulia)
     @ Scientific Name: Streptocarpus ionanthus (formerly Saintpaulia ionantha)
     @ Cultivar: –
@@ -103,7 +103,7 @@
     @ Seasonal Conditions: Prefers bright indirect light and warm indoor temperatures (18–24°C); requires steady moisture and humidity
     @ Natural Habitat: Moist cloud forests of Tanzania (East Africa), on shaded forest floor near streams
 ----------------------------------------------------
-[Agapanthus:]
+[Flower Name:]
     @ Common Name: African Lily, Lily of the Nile
     @ Scientific Name: Agapanthus africanus (and related species)【image†】
     @ Cultivar: –
@@ -129,7 +129,7 @@
     @ Seasonal Conditions: Prefers full sun to partial shade; drought-tolerant once established; hardy to mild frost (zones 8–11).
     @ Natural Habitat: Native to South African rocky grasslands and coastal slopes.
 ----------------------------------------------------
-[Ageratum:]
+[Flower Name:]
     @ Common Name: Floss Flower
     @ Scientific Name: Ageratum houstonianum
     @ Cultivar: –
@@ -155,7 +155,7 @@
     @ Seasonal Conditions: Prefers full sun to partial shade; moderate water; warm growing season.
     @ Natural Habitat: Native to Central America (Mexico to Nicaragua); commonly cultivated in gardens worldwide.
 ----------------------------------------------------
-[Alcea (Hollyhock):]
+[Flower Name:]
     @ Common Name: Hollyhock
     @ Scientific Name: Alcea rosea (common hollyhock)
     @ Cultivar: –
@@ -181,7 +181,7 @@
     @ Seasonal Conditions: Prefers full sun; drought tolerant once established; hardy biennial/perennial.
     @ Natural Habitat: Cultivated species; wild relatives native to Asia Minor and temperate Europe.
 ----------------------------------------------------
-[Alstroemeria:]
+[Flower Name:]
     @ Common Name: Peruvian Lily, Lily of the Incas
     @ Scientific Name: Alstroemeria spp. (e.g. A. aurea, A. ligtu)
     @ Cultivar: –
@@ -233,7 +233,7 @@
     @ Seasonal Conditions: Prefers full sun; well-drained soil; tolerates some drought once established.
     @ Natural Habitat: Coastal regions of Mediterranean Europe (maritima = “of the sea”).
 ----------------------------------------------------
-[Aster:]
+[Flower Name:]
     @ Common Name: Aster
     @ Scientific Name: Aster amellus (typical species, but many genera now include “asters” e.g. Symphyotrichum)
     @ Cultivar: –
@@ -259,7 +259,7 @@
     @ Seasonal Conditions: Sun to part shade; hardy, tolerates various soils; often perennials in temperate zones.
     @ Natural Habitat: Widespread in temperate Northern Hemisphere – meadows, woodlands, prairies.
 ----------------------------------------------------
-[Azalea:]
+[Flower Name:]
     @ Common Name: Azalea
     @ Scientific Name: Rhododendron subgenus Pentodendron (or section Pentanthera/ Tsutsuji depending on type)
     @ Cultivar: –
@@ -311,7 +311,7 @@
     @ Seasonal Conditions: Prefer shade to dappled light (some types tolerate sun); warm, humid conditions; keep evenly moist.
     @ Natural Habitat: Tropical and subtropical regions worldwide (rainforests of South America, Africa, Asia).
 ----------------------------------------------------
-[Bluebell:]
+[Flower Name:]
     @ Common Name: Bluebell (common bluebell, English bluebell)
     @ Scientific Name: Hyacinthoides non-scripta (formerly Endymion non-scriptus)
     @ Cultivar: –
@@ -363,7 +363,7 @@
     @ Seasonal Conditions: Full sun; tolerates poor soil if moist; hardy in warm climates (USDA 8–11) but can grow as annual in cooler areas.
     @ Natural Habitat: Tropical Americas (naturalized widely).
 ----------------------------------------------------
-[Cardinal flower:]
+[Flower Name:]
     @ Common Name: Cardinal Flower
     @ Scientific Name: Lobelia cardinalis
     @ Cultivar: –
@@ -389,7 +389,7 @@
     @ Seasonal Conditions: Prefers full sun to part shade; moist to wet soils (bog margins, streambanks).
     @ Natural Habitat: Wet areas of eastern North America (swamps, riverbanks).
 ----------------------------------------------------
-[Chrysanthemum:]
+[Flower Name:]
     @ Common Name: Chrysanthemum, Mum
     @ Scientific Name: Chrysanthemum × morifolium (garden mum, hybrid species)
     @ Cultivar: –
@@ -467,7 +467,7 @@ Clematis:
     @ Seasonal Conditions: Full sun; tolerates drought; hardy perennial.
     @ Natural Habitat: Native to North American prairies and glades (Open, sunny prairies in Midwest U.S.).
 ----------------------------------------------------
-[Cornflower:]
+[Flower Name:]
     @ Common Name: Cornflower, Bachelor's Button
     @ Scientific Name: Centaurea cyanus
     @ Cultivar: –
@@ -493,7 +493,7 @@ Clematis:
     @ Seasonal Conditions: Prefers full sun; tolerates poor soils; self-seeds easily.
     @ Natural Habitat: Native to Europe (wild in fields); introduced worldwide.
 ----------------------------------------------------
-[Cymbidium (Orchid):]
+[Flower Name:]
     @ Common Name: Cymbidium Orchid
     @ Scientific Name: Cymbidium spp. (e.g. C. goeringii)
     @ Cultivar: –
@@ -545,7 +545,7 @@ Clematis:
     @ Seasonal Conditions: Full to part sun; well-drained soil; hardy spring bulb.
     @ Natural Habitat: Mediterranean Europe and North Africa.
 ----------------------------------------------------
-[Dahlia:]
+[Flower Name:]
     @ Common Name: Dahlia
     @ Scientific Name: Dahlia spp. (e.g. D. pinnata)
     @ Cultivar: –
@@ -571,7 +571,7 @@ Clematis:
     @ Seasonal Conditions: Full sun; moderately fertile soil; tubers dug or protected in winter where not hardy.
     @ Natural Habitat: Mountains of Mexico and Central America (dahlia is the national flower of Mexico).
 ----------------------------------------------------
-[Daisy:]
+[Flower Name:]
     @ Common Name: Daisy (common daisy)
     @ Scientific Name: Bellis perennis (English daisy) or generically any similar flower (e.g., Leucanthemum vulgare, Gerbera jamesonii).
     @ Cultivar: –
@@ -597,7 +597,7 @@ Clematis:
     @ Seasonal Conditions: Sun to part shade; cool-season hardy.
     @ Natural Habitat: Europe (English daisy naturalized widely), widely cultivated species globally.
 ----------------------------------------------------
-[Daphne:]
+[Flower Name:]
     @ Common Name: Daphne (fragrant shrub)
     @ Scientific Name: Daphne spp. (e.g., D. odora)
     @ Cultivar: –
@@ -623,7 +623,7 @@ Clematis:
     @ Seasonal Conditions: Part shade; well-drained soil; tolerant of cool climates but prefers sheltered sites.
     @ Natural Habitat: Asia and Europe (woodlands, thickets).
 ----------------------------------------------------
-[Daylily:]
+[Flower Name:]
     @ Common Name: Daylily
     @ Scientific Name: Hemerocallis spp. (commonly H. fulva)
     @ Cultivar: –
@@ -649,7 +649,7 @@ Clematis:
     @ Seasonal Conditions: Full sun; moist, fertile soil; hardy perennial.
     @ Natural Habitat: Native to Asia (often in streambanks and grassy slopes).
 ----------------------------------------------------
-[Delphinium:]
+[Flower Name:]
     @ Common Name: Delphinium, Larkspur
     @ Scientific Name: Delphinium elatum (tall larkspur) and others
     @ Cultivar: –
@@ -675,7 +675,7 @@ Clematis:
     @ Seasonal Conditions: Full sun; rich, well-drained soil; often grown as annual or short-lived perennial in temperate regions.
     @ Natural Habitat: Temperate regions (Asia, N. America) – mountain meadows.
 ----------------------------------------------------
-[Dianthus:]
+[Flower Name:]
     @ Common Name: Carnation (Dianthus); includes Sweet William, Pinks, etc.
     @ Scientific Name: Dianthus caryophyllus (carnation), D. barbatus (Sweet William), D. plumarius (garden pinks)
     @ Cultivar: –
@@ -700,3 +700,4 @@ Clematis:
     @ Bloom Calendar: Carnations and Sweet Williams bloom late spring to summer; border pinks late spring.
     @ Seasonal Conditions: Full sun; well-drained alkaline soil; carnations often grown as annual/perennial.
     @ Natural Habitat: Europe and Asia (rocky areas, grassy slopes).
+----------------------------------------------------
