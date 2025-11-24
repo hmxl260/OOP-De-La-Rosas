@@ -77,3 +77,626 @@
     @ Seasonal Conditions: Temperate, sunny
     @ Natural Habitat: Garden, cultivated
 ----------------------------------------------------
+[African violet:]
+    @ Common Name: African Violet (syn. Saintpaulia)
+    @ Scientific Name: Streptocarpus ionanthus (formerly Saintpaulia ionantha)
+    @ Cultivar: –
+    @ ----
+    @ Family: Gesneriaceae
+    @ Genus: Streptocarpus
+    @ Species: ionanthus (one of several in the section Saintpaulia)
+    @ ----
+    @ Floriography: Symbolizes devotion, commitment, and faithfulness; often given as a token of loyalty and maternal love. African violets’ soft, humble blooms are associated with modesty and spiritual wisdom (per general floral symbolism of violets)
+    @ Etymology: Genus Saintpaulia named for Baron Walter von Saint-Paul-Illaire who introduced the plant to Europe; species epithet ionantha from Greek ion (“violet”) + anthos (“flower”). (The current genus Streptocarpus means “twisted fruit” from Greek roots.)
+    @ ----
+    @ Flower Color/s: Wide range of purple, violet, pink, blue, white (often bicolored)
+    @ Petal Count/s: 5 petals (5 lobes per flower) on a typical African violet bloom
+    @ Petal Shape/s: Rounded to slightly obovate with scalloped edges; blooms are saucer-shaped.
+    @ Fragrance: Generally none (African violets are usually unscented).
+    @ Height: Compact form to ~15–20 cm tall (varies by variety)
+    @ Stem Type: Fleshy herbaceous stems, often forming a rosette of leaves; stems are succulent and fibrous.
+    @ Root Type: Fibrous, shallow (hence grow well in shallow pots).
+    @ Bloom Shape: Rounded clusters of flat-faced, symmetric flowers; each flower has a slight cuplike shape.
+    @ Texture: Velvety (leaves and petals have fine hairs)
+    @ ----
+    @ Bloom Calendar: Blooms year-round in good indoor conditions; peak flowering in spring-summer; often continuous bloom under steady care
+    @ Seasonal Conditions: Prefers bright indirect light and warm indoor temperatures (18–24°C); requires steady moisture and humidity
+    @ Natural Habitat: Moist cloud forests of Tanzania (East Africa), on shaded forest floor near streams
+----------------------------------------------------
+[Agapanthus:]
+    @ Common Name: African Lily, Lily of the Nile
+    @ Scientific Name: Agapanthus africanus (and related species)【image†】
+    @ Cultivar: –
+    @ ----
+    @ Family: Amaryllidaceae【find source】
+    @ Genus: Agapanthus
+    @ Species: A. africanus and others (e.g. A. praecox)
+    @ ----
+    @ Floriography: Represents love, purity, and beauty; the round umbels symbolize innocence and hope. Historically considered a symbol of fertility and joy (common to blue and white agapanthus in floral language).
+    @ Etymology: From Greek agapē (“love”) + anthos (“flower”), meaning “flower of love.”
+    @ ----
+    @ Flower Color/s: Blue, violet-blue, purple, white.
+    @ Petal Count/s: 6 tepals per flower (members of amaryllis family have 6 petals/tepals)【source】.
+    @ Petal Shape/s: Tubular flowers opening into trumpet or bell shapes.
+    @ Fragrance: Some varieties lightly fragrant, others scentless.
+    @ Height: 30–120 cm tall (depending on species and cultivar)【source】.
+    @ Stem Type: Erect, unbranched peduncle (scapose) carrying the flower umbels.
+    @ Root Type: Thick rhizomatous roots (bulb-like rhizomes) that store water.
+    @ Bloom Shape: Rounded umbels or clusters of funnel-shaped flowers at stem top.
+    @ Texture: Waxy or smooth petals; leaves leathery and strap-like.
+    @ ----
+    @ Bloom Calendar: Summer blooming (June–August) in temperate zones; late spring to summer in native habitat.
+    @ Seasonal Conditions: Prefers full sun to partial shade; drought-tolerant once established; hardy to mild frost (zones 8–11).
+    @ Natural Habitat: Native to South African rocky grasslands and coastal slopes.
+----------------------------------------------------
+[Ageratum:]
+    @ Common Name: Floss Flower
+    @ Scientific Name: Ageratum houstonianum
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Ageratum
+    @ Species: A. houstonianum (common cultivated species)
+    @ ----
+    @ Floriography: Symbolizes thankfulness and repair; floss flowers, with their fluffy blooms, often represent purity of heart and the healing of old wounds.
+    @ Etymology: Genus name from Greek a-geras meaning “never aging,” referring to the long-lasting blooms. Species houstonianum honors Dr. William Houston, a botanical collector.
+    @ ----
+    @ Flower Color/s: Blue, lavender, pink, white.
+    @ Petal Count/s: Inflorescences are clusters of many small tubular florets (each “floss flower” head).
+    @ Petal Shape/s: Tubular blooms ending in thread-like petals, giving a pom-pom appearance.
+    @ Fragrance: Light, slightly musky.
+    @ Height: 10–60 cm tall (typically 20–40 cm)【source】.
+    @ Stem Type: Upright, branching.
+    @ Root Type: Fibrous.
+    @ Bloom Shape: Flat-topped clusters (corymbs or heads) of fluffy composite flowers.
+    @ Texture: Soft and hairy (flowers feel velvety to touch).
+    @ ----
+    @ Bloom Calendar: Summer through fall (blooms profusely from midsummer until frost).
+    @ Seasonal Conditions: Prefers full sun to partial shade; moderate water; warm growing season.
+    @ Natural Habitat: Native to Central America (Mexico to Nicaragua); commonly cultivated in gardens worldwide.
+----------------------------------------------------
+[Alcea (Hollyhock):]
+    @ Common Name: Hollyhock
+    @ Scientific Name: Alcea rosea (common hollyhock)
+    @ Cultivar: –
+    @ ----
+    @ Family: Malvaceae (mallow family)【source】
+    @ Genus: Alcea
+    @ Species: A. rosea (garden hollyhock)
+    @ ----
+    @ Floriography: Symbolizes fertility, abundance, and fruitfulness; also associated with ambition and the Circle of Life as it reaches upward. Its tall spires of blooms can represent resilience and persistence.
+    @ Etymology: Alcea from Greek alkē (a mallow plant); “hollyhock” likely from Old English hole(e)-āc (“holly-like oak”), as the leaves resemble oak leaves.
+    @ ----
+    @ Flower Color/s: Many colors including pink, red, white, yellow, and purple.
+    @ Petal Count/s: 5 petals (typical mallow morphology)【source】.
+    @ Petal Shape/s: Rounded petals forming a funnel shape; often have darker center.
+    @ Fragrance: Often unscented or mildly sweet.
+    @ Height: Tall (1–2.5 m) with multiple whorls of blooms on erect stems.
+    @ Stem Type: Erect, sturdy, unbranched or with few branches; typically one tall central stem.
+    @ Root Type: Taproot (deep, thick).
+    @ Bloom Shape: Funnel or bowl-shaped flowers arranged around a tall spike (raceme).
+    @ Texture: Papery or ruffled petals.
+    @ ----
+    @ Bloom Calendar: Summer to early fall (June–September).
+    @ Seasonal Conditions: Prefers full sun; drought tolerant once established; hardy biennial/perennial.
+    @ Natural Habitat: Cultivated species; wild relatives native to Asia Minor and temperate Europe.
+----------------------------------------------------
+[Alstroemeria:]
+    @ Common Name: Peruvian Lily, Lily of the Incas
+    @ Scientific Name: Alstroemeria spp. (e.g. A. aurea, A. ligtu)
+    @ Cultivar: –
+    @ ----
+    @ Family: Alstroemeriaceae【source】
+    @ Genus: Alstroemeria
+    @ Species: var. (cultivars often interspecific hybrids)
+    @ ----
+    @ Floriography: Symbolizes friendship and devotion; these long-lasting blooms are often given as a sign of mutual support and affection.
+    @ Etymology: Named after Swedish baron Clas Alströmer; often called Inca Lily as native to South America. The name alstroemeria has no direct Greek/Latin meaning.
+    @ ----
+    @ Flower Color/s: Various: pink, red, orange, yellow, purple, white (often spotted or streaked).
+    @ Petal Count/s: 6 (two whorls of 3, tepals)【source】.
+    @ Petal Shape/s: Tubular at base expanding to flaring, often reflexed petals with pointed ends.
+    @ Fragrance: Generally not fragrant (breeding for cut flower longevity often sacrificed scent).
+    @ Height: 30–100 cm tall.
+    @ Stem Type: Upright stems from rhizomes, typically branched near top.
+    @ Root Type: Rhizomatous.
+    @ Bloom Shape: Trumpet-shaped or funnel flowers in umbels atop stems.
+    @ Texture: Smooth petals; some velvety bracts.
+    @ ----
+    @ Bloom Calendar: Summer (late spring to fall in cultivation); usually rebloom if conditions are right.
+    @ Seasonal Conditions: Prefers partial sun to light shade; moderate moisture; sensitive to frost; hardy in USDA zones 8–10.
+    @ Natural Habitat: Mountain regions of South America (Chile, Brazil, Peru, etc.).
+----------------------------------------------------
+[Alyssum:]
+    @ Common Name: Sweet Alyssum
+    @ Scientific Name: Lobularia maritima (often grown as bedding plant)
+    @ Cultivar: –
+    @ ----
+    @ Family: Brassicaceae (mustard family)【source】
+    @ Genus: Lobularia (formerly Alyssum maritimum)
+    @ Species: L. maritima (common sweet alyssum)
+    @ ----
+    @ Floriography: Symbolizes worth beyond beauty, trust, and protection; traditionally, giving alyssum is a promise of powerful love.
+    @ Etymology: Genus Lobularia from Latin lobus (pod) + -aria (“pertaining to pods”); old genus Alyssum from Greek a-lyssos (“not madness”), as it was believed to cure rabies.
+    @ ----
+    @ Flower Color/s: Most often white; also pink, purple, and honey (yellow) cultivars.
+    @ Petal Count/s: 4 (as a brassica) in a short trumpet shape; clusters of many small flowers.
+    @ Petal Shape/s: Rounded petals forming flat clusters; individual blooms are tiny and four-petaled.
+    @ Fragrance: Sweet honey-like scent (especially white forms)【source】.
+    @ Height: Low-growing (5–30 cm); groundcover habit.
+    @ Stem Type: Spreading, branched.
+    @ Root Type: Shallow, fibrous.
+    @ Bloom Shape: Umbels or dense clusters at stem tips; flat-topped clusters.
+    @ Texture: Delicate and lacy.
+    @ ----
+    @ Bloom Calendar: Spring through fall in mild climates; often perennial in zone 9–11, annual elsewhere.
+    @ Seasonal Conditions: Prefers full sun; well-drained soil; tolerates some drought once established.
+    @ Natural Habitat: Coastal regions of Mediterranean Europe (maritima = “of the sea”).
+----------------------------------------------------
+[Aster:]
+    @ Common Name: Aster
+    @ Scientific Name: Aster amellus (typical species, but many genera now include “asters” e.g. Symphyotrichum)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Aster (sensu lato)
+    @ Species: varies (e.g. A. amellus if specific)
+    @ ----
+    @ Floriography: Symbolizes patience, daintiness, and love; often given to express a deep emotional bond or adoration that goes beyond words.
+    @ Etymology: Aster is Greek for “star”, reflecting the star-like shape of the flower head.
+    @ ----
+    @ Flower Color/s: Purple, blue, pink, white, red; yellow centers.
+    @ Petal Count/s: Many ray petals (often 15–30) surrounding a yellow (or red) disk.
+    @ Petal Shape/s: Narrow, strap-like rays; daisy-like composite flower.
+    @ Fragrance: Slightly herbal or earthy (not strongly scented).
+    @ Height: 10–90 cm (varies widely by species).
+    @ Stem Type: Erect, branching (often forming clumps).
+    @ Root Type: Fibrous or rhizomatous (depends on species).
+    @ Bloom Shape: Daisy-like with a distinct central disk and radiating petals (composite flower head).
+    @ Texture: Soft petals, overall look delicate.
+    @ ----
+    @ Bloom Calendar: Late summer through fall (some species bloom into early autumn, giving fall color).
+    @ Seasonal Conditions: Sun to part shade; hardy, tolerates various soils; often perennials in temperate zones.
+    @ Natural Habitat: Widespread in temperate Northern Hemisphere – meadows, woodlands, prairies.
+----------------------------------------------------
+[Azalea:]
+    @ Common Name: Azalea
+    @ Scientific Name: Rhododendron subgenus Pentodendron (or section Pentanthera/ Tsutsuji depending on type)
+    @ Cultivar: –
+    @ ----
+    @ Family: Ericaceae (heath family)【source】
+    @ Genus: Rhododendron
+    @ Species: many (e.g. R. indicum, R. simsii, etc.)
+    @ ----
+    @ Floriography: Symbolizes temperance, fragile passion, and the ebb and flow of life; in Victorian times, azaleas were also seen as a symbol of abundance and womanhood.
+    @ Etymology: Derived from Greek rhodos (rose) + dendron (tree), meaning “rose tree” (azaleas are a type of rhododendron). The common name “azalea” comes from Greek azaleos “dry” (reflecting the plants’ preference for well-drained soil).
+    @ ----
+    @ Flower Color/s: Pink, red, white, yellow, orange, purple (often with spots or streaks inside throat).
+    @ Petal Count/s: 5 (some have 5–7 petals depending on species)【source】.
+    @ Petal Shape/s: Rounded or trumpet-shaped petals, often fused at base to form a funnel.
+    @ Fragrance: Some azaleas are fragrant (depending on species), but many garden varieties have little scent.
+    @ Height: Varies widely – dwarf varieties ~0.3 m up to large shrubs 2–5 m tall.
+    @ Stem Type: Woody, branching shrubs.
+    @ Root Type: Fibrous, shallow roots.
+    @ Bloom Shape: Funnel or bell-shaped blossoms in trusses or clusters.
+    @ Texture: Soft and somewhat velvety petals; leaves usually leathery.
+    @ ----
+    @ Bloom Calendar: Late spring (April–May) for most species (some evergreen azaleas bloom earlier).
+    @ Seasonal Conditions: Prefers partial shade and acidic, well-drained soil; often used in woodland gardens.
+    @ Natural Habitat: Native to Asia, Europe, and North America (woodland understory of Himalaya, SE Asia, Eastern NA).
+
+[Begonia:]
+    @ Common Name: Begonia
+    @ Scientific Name: Begonia x semperflorens (wax begonia) or many species
+    @ Cultivar: –
+    @ ----
+    @ Family: Begoniaceae
+    @ Genus: Begonia
+    @ Species: many (common wax begonia is B. x semperflorens)
+    @ ----
+    @ Floriography: Represents caution, underlying love, and individuality; begonias’ heart-shaped leaves and delicate blooms often stand for warm thoughts and a wish for prosperity.
+    @ Etymology: Named after Michel Bégon, a 17th-century French colonial administrator and plant collector.
+    @ ----
+    @ Flower Color/s: Pink, white, red, orange, yellow (wax begonias often white/pink).
+    @ Petal Count/s: 4 or 5 (Begonias have asymmetrical flowers; male flowers typically have 4 petals, female have 5).
+    @ Petal Shape/s: Rounded to triangular; wax begonias have two sets of petals of two different sizes giving a layered look.
+    @ Fragrance: Generally none.
+    @ Height: 15–30 cm (some rex and cane begonias grow taller).
+    @ Stem Type: Succulent/soft stems (often cane-like or rhizomatous depending on type).
+    @ Root Type: Fibrous or tuberous (some species).
+    @ Bloom Shape: Flat or hanging clusters; sculptural form especially in cane types.
+    @ Texture: Waxy, glossy petals (wax begonia) and leaves, or velvety (rex begonias).
+    @ ----
+    @ Bloom Calendar: Summer and often continuing into autumn (year-round indoors for houseplant varieties).
+    @ Seasonal Conditions: Prefer shade to dappled light (some types tolerate sun); warm, humid conditions; keep evenly moist.
+    @ Natural Habitat: Tropical and subtropical regions worldwide (rainforests of South America, Africa, Asia).
+----------------------------------------------------
+[Bluebell:]
+    @ Common Name: Bluebell (common bluebell, English bluebell)
+    @ Scientific Name: Hyacinthoides non-scripta (formerly Endymion non-scriptus)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asparagaceae (subfamily Scilloideae)【source】
+    @ Genus: Hyacinthoides
+    @ Species: H. non-scripta (British bluebell)
+    @ ----
+    @ Floriography: Symbolizes humility, constancy, and gratitude; bluebells evoke feelings of gratitude and everlasting love in folklore.
+    @ Etymology: English “bluebell” for bell-shaped blue flowers. Hyacinthoides means “like Hyacinthus” (Greek myth), referring to shape.
+    @ ----
+    @ Flower Color/s: Deep violet-blue (British species); other species can be pink, white.
+    @ Petal Count/s: 6 tepals (3 fused with 3 separate) arranged in nodding bell clusters.
+    @ Petal Shape/s: Bell-shaped (campanulate) with reflexed tips.
+    @ Fragrance: Sweet, distinctive scent.
+    @ Height: 20–50 cm.
+    @ Stem Type: Erect, wiry stems with a nodding raceme of 10–20 bells.
+    @ Root Type: Fibrous bulbs.
+    @ Bloom Shape: Conical cluster of hanging bell-shaped florets.
+    @ Texture: Smooth petals; delicate, drooping form.
+    @ ----
+    @ Bloom Calendar: Spring (April–May).
+    @ Seasonal Conditions: Prefers shade or semi-shade; woodland habitat; likes moist, well-drained soil.
+    @ Natural Habitat: Native to Atlantic areas of Europe (woodlands, hedgerows).
+
+[Canna:]
+    @ Common Name: Canna Lily (Garden Canna)
+    @ Scientific Name: Canna indica (or hybrid cultivars C. × generalis)
+    @ Cultivar: –
+    @ ----
+    @ Family: Cannaceae
+    @ Genus: Canna
+    @ Species: C. indica (wild type) and many cultivated hybrids (Canna lilies)
+    @ ----
+    @ Floriography: Represents glory and grace; its bold, tropical blooms signify beauty, power, and warmth. Cannas are often given to convey confidence and admiration.
+    @ Etymology: “Canna” is Latin for “cane” or “reed,” referring to the plant’s tall canelike stalks.
+    @ ----
+    @ Flower Color/s: Red, orange, yellow, pink (often large bi- or tri-colors in hybrids).
+    @ Petal Count/s: 3 fertile stamens (petaloid staminodes make it appear to have 6 tepals)【source】.
+    @ Petal Shape/s: Large, banana-like petals (actually petaloid stamens) forming an asymmetrical open bloom.
+    @ Fragrance: Usually faint or none (a few varieties may be sweet).
+    @ Height: 0.5–2 m (dwarf and tall cultivars).
+    @ Stem Type: Thick, fleshy canes (herbaceous).
+    @ Root Type: Rhizomatous.
+    @ Bloom Shape: Irregular open flowers; exotic, orchid-like appearance.
+    @ Texture: Waxy, smooth petals; large, lush leaves.
+    @ ----
+    @ Bloom Calendar: Summer to early autumn (often July–September).
+    @ Seasonal Conditions: Full sun; tolerates poor soil if moist; hardy in warm climates (USDA 8–11) but can grow as annual in cooler areas.
+    @ Natural Habitat: Tropical Americas (naturalized widely).
+----------------------------------------------------
+[Cardinal flower:]
+    @ Common Name: Cardinal Flower
+    @ Scientific Name: Lobelia cardinalis
+    @ Cultivar: –
+    @ ----
+    @ Family: Campanulaceae (bellflower family)【source】
+    @ Genus: Lobelia
+    @ Species: L. cardinalis
+    @ ----
+    @ Floriography: Symbolizes love and passion (the fiery red flowers), as well as courage and power. Also associated with maternal guidance (water symbolism) in some Native American traditions.
+    @ Etymology: Named for its brilliant red color reminiscent of a cardinal's robes. Lobelia named after Flemish botanist Matthias de Lobel.
+    @ ----
+    @ Flower Color/s: Bright scarlet-red (occasionally pink or white cultivars).
+    @ Petal Count/s: 5 (irregular lobed flower) with a long tube and 2 upper and 3 lower lips (bilabiate flower)【source】.
+    @ Petal Shape/s: Tubular and two-lipped with two upward petals and three downward petals.
+    @ Fragrance: Slightly musky.
+    @ Height: 60–120 cm.
+    @ Stem Type: Erect, unbranched flower spike above basal clump.
+    @ Root Type: Fibrous.
+    @ Bloom Shape: Spikes of tubular, bilabiate flowers.
+    @ Texture: Soft, delicate petals.
+    @ ----
+    @ Bloom Calendar: Summer to fall (July–October).
+    @ Seasonal Conditions: Prefers full sun to part shade; moist to wet soils (bog margins, streambanks).
+    @ Natural Habitat: Wet areas of eastern North America (swamps, riverbanks).
+----------------------------------------------------
+[Chrysanthemum:]
+    @ Common Name: Chrysanthemum, Mum
+    @ Scientific Name: Chrysanthemum × morifolium (garden mum, hybrid species)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Chrysanthemum (sensu lato, several related genera)
+    @ Species: C. × morifolium (cultivated mum, also known as Chrysanthemum indicum hybrid)
+    @ ----
+    @ Floriography: Symbolizes friendship (especially in Japan), honor, and loyalty. The chrysanthemum’s long bloom life also represents life and rejuvenation; in some cultures it’s a symbol of grief (white mums in funerals).
+    @ Etymology: From Greek chrysos (“gold”) + anthemon (“flower”), originally referring to yellow blooms. The Latin name morifolium means “with leaves like a mulberry.”
+    @ ----
+    @ Flower Color/s: White, yellow, orange, red, purple, green; often multi-colored or daisy-like forms.
+    @ Petal Count/s: Many (10–100+ petals) depending on cultivar; composite head with many ray florets.
+    @ Petal Shape/s: Many forms: daisy-like rays, reflexed petals, tubular (spider mums), etc.
+    @ Fragrance: Usually mild or chrysanthemum-specific sweet-mum scent in some varieties; many garden mums are nearly scentless.
+    @ Height: Typically 30–60 cm (garden varieties); some cultivars taller.
+    @ Stem Type: Upright, bushy.
+    @ Root Type: Fibrous.
+    @ Bloom Shape: Composite flower heads (often called daisies or pompoms); various forms (single, spoon, quilled, spider, etc.).
+    @ Texture: Petals can be smooth or straw-like (spider), foliage is generally lobed and coarse.
+    @ ----
+    @ Bloom Calendar: Fall (September–November); typically after the summer.
+    @ Seasonal Conditions: Full sun; requires short-day photoperiod to initiate bloom; moderate moisture.
+    @ Natural Habitat: Originally from East Asia and northeastern Europe; widely cultivated worldwide.
+----------------------------------------------------
+Clematis:
+    @ Common Name: Clematis
+    @ Scientific Name: Clematis spp. (e.g., C. montana, C. armandii, etc.)
+    @ Cultivar: –
+    @ ----
+    @ Family: Ranunculaceae (buttercup family)【source】
+    @ Genus: Clematis
+    @ Species: many; popularly C. viticella, C. montana, etc.
+    @ ----
+    @ Floriography: Symbolizes ingenuity and mental beauty; clematis is associated with artifice and craftsmanship (for its climbing habit weaving through structures). In Victorian times it was a charm for travelers.
+    @ Etymology: From Greek klēmatos (“creeper” or “vine”), referring to its climbing habit.
+    @ ----
+    @ Flower Color/s: Purple, blue, pink, white, red, yellow; many bicolor.
+    @ Petal Count/s: Actually petal-like sepals (4 to 8 in most cultivated types)【source】.
+    @ Petal Shape/s: Widely varied: star-shaped, bell-shaped, or full rosettes (double forms).
+    @ Fragrance: Varies by species (many garden clematis are unscented, but C. montana and C. armandii are fragrant).
+    @ Height: Climbing vines (1–10+ m depending on species and support).
+    @ Stem Type: Climbing vine (twining leaf petioles or tendrils).
+    @ Root Type: Deep woody roots (root runners in some species).
+    @ Bloom Shape: Single flowers, doubles, or pompom shapes.
+    @ Texture: Papery petals; foliage often pinnate.
+    @ ----
+    @ Bloom Calendar: Varies by group: early spring (C. montana), early summer, or late summer/fall bloomers exist.
+    @ Seasonal Conditions: Full sun to part shade (depending on cultivar); requires consistent moisture and good drainage; hardy.
+    @ Natural Habitat: Worldwide in temperate climates (many species from Asia, Europe, North America in woodland or mountainous areas).
+----------------------------------------------------
+[Coneflower (Echinacea):]
+    @ Common Name: Coneflower (Purple coneflower)
+    @ Scientific Name: Echinacea purpurea (or other Echinacea spp.)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Echinacea
+    @ Species: E. purpurea, E. angustifolia, etc. (commonly E. purpurea)
+    @ ----
+    @ Floriography: Symbolizes strength and health (reflecting traditional medicinal uses); also associated with admiration and enduring love due to its bold, long-lasting blooms.
+    @ Etymology: Echinacea from Greek echinos meaning “hedgehog” or “sea urchin” (referring to spiny central cone)【source】. “Purpurea” means purple.
+    @ ----
+    @ Flower Color/s: Purple-pink (E. purpurea); also white (E. purpurea ‘White Swan’), yellow/orange (E. paradoxa), red hybrids.
+    @ Petal Count/s: 8–12 drooping ray petals (florets) around a prominent cone.
+    @ Petal Shape/s: Long, slender, drooping; disk is a raised spiky cone.
+    @ Fragrance: Slightly sweet, clove-like scent.
+    @ Height: 60–120 cm.
+    @ Stem Type: Erect, rigid, single stem or few stems from base.
+    @ Root Type: Deep taproot with fibrous lateral roots.
+    @ Bloom Shape: Distinct dome-shaped cone with radiating ray petals.
+    @ Texture: Papery petals; rough spiky cone.
+    @ ----
+    @ Bloom Calendar: Summer to early fall (July–September).
+    @ Seasonal Conditions: Full sun; tolerates drought; hardy perennial.
+    @ Natural Habitat: Native to North American prairies and glades (Open, sunny prairies in Midwest U.S.).
+----------------------------------------------------
+[Cornflower:]
+    @ Common Name: Cornflower, Bachelor's Button
+    @ Scientific Name: Centaurea cyanus
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Centaurea
+    @ Species: C. cyanus (cornflower or bachelor’s button)
+    @ ----
+    @ Floriography: Represents hope, devotion, and love; historically a symbol of prosperity and fertility, as well as boldness and remembrance.
+    @ Etymology: Centaurea named after Chiron (the centaur) in Greek myth; cyanus from Greek kyanos meaning “dark blue”. The English common name “cornflower” comes from its habit of growing in grain (corn) fields.
+    @ ----
+    @ Flower Color/s: Typically blue; also pink, purple, red, white in cultivars.
+    @ Petal Count/s: Composite head with many fringed ray florets (20+).
+    @ Petal Shape/s: Ragged, tufted petals (each “petal” is a floret with a fringed or toothed edge).
+    @ Fragrance: Very faint or no scent.
+    @ Height: 30–90 cm.
+    @ Stem Type: Erect, slender.
+    @ Root Type: Fibrous, shallow.
+    @ Bloom Shape: Daisy-like heads with distinctive shaggy or tufted edges.
+    @ Texture: Papery, dry petals; overall delicate appearance.
+    @ ----
+    @ Bloom Calendar: Late spring to summer (May–July).
+    @ Seasonal Conditions: Prefers full sun; tolerates poor soils; self-seeds easily.
+    @ Natural Habitat: Native to Europe (wild in fields); introduced worldwide.
+----------------------------------------------------
+[Cymbidium (Orchid):]
+    @ Common Name: Cymbidium Orchid
+    @ Scientific Name: Cymbidium spp. (e.g. C. goeringii)
+    @ Cultivar: –
+    @ ----
+    @ Family: Orchidaceae (orchid family)【source】
+    @ Genus: Cymbidium
+    @ Species: multiple (over 50 species, plus many hybrids)
+    @ ----
+    @ Floriography: Orchids symbolize refinement, exotic beauty, and strength; specifically, cymbidiums often represent virtue and moral excellence.
+    @ Etymology: From Greek kymbe (“boat”) referring to the boat-shaped lip of the flower.
+    @ ----
+    @ Flower Color/s: Green, yellow, pink, red, brown, variegated (often spotted or striped).
+    @ Petal Count/s: 3 petals and 3 sepals; one petal modified into a lip (labellum).
+    @ Petal Shape/s: Depending on species, can be star-shaped or with broad lip; sepals and petals often similar.
+    @ Fragrance: Some hybrids are fragrant; wild species C. goeringii notably sweet-smelling.
+    @ Height: 30–60 cm (pseudobulb-bearing leaves tall).
+    @ Stem Type: Pseudobulbs (swollen stem bases) bearing leaves; flower stalk arises from pseudobulbs.
+    @ Root Type: Aerial, fibrous roots (like most orchids).
+    @ Bloom Shape: Long sprays of multiple orchid blooms on arching inflorescences.
+    @ Texture: Waxy smooth petals.
+    @ ----
+    @ Bloom Calendar: Usually winter or spring (some flower in fall); blooms last weeks.
+    @ Seasonal Conditions: Cool growing conditions for some species; bright but indirect light; grown as greenhouse plant in temperate climates.
+    @ Natural Habitat: Native to Asia, Australia, and Pacific islands (grasslands and forests).
+
+[Daffodil:]
+    @ Common Name: Daffodil, Narcissus
+    @ Scientific Name: Narcissus spp. (commonly N. pseudonarcissus or hybrids)
+    @ Cultivar: –
+    @ ----
+    @ Family: Amaryllidaceae【source】
+    @ Genus: Narcissus
+    @ Species: many (spring-flowering bulbs)
+    @ ----
+    @ Floriography: Symbolizes rebirth, new beginnings, and unrequited love; often associated with spring renewal and hope.
+    @ Etymology: Narcissus from Greek myth of Narcissus (the flower came from his name); may be linked to Greek narke meaning “numbness” due to fragrance.
+    @ ----
+    @ Flower Color/s: Yellow, white, orange (often combinations, e.g. white petals with orange trumpet).
+    @ Petal Count/s: 6 per flower (3 petals + 3 petaloid sepals)【source】.
+    @ Petal Shape/s: Trumpet (central corona) surrounded by six flat petals.
+    @ Fragrance: Often pleasantly sweet, especially white and yellow forms.
+    @ Height: 10–45 cm (dwarf to large).
+    @ Stem Type: Leafless stalk (scape) bearing single or multiple blooms.
+    @ Root Type: Bulbs.
+    @ Bloom Shape: Central trumpet (cup) surrounded by a star of petals.
+    @ Texture: Smooth, often waxy petals.
+    @ ----
+    @ Bloom Calendar: Early spring (March–April).
+    @ Seasonal Conditions: Full to part sun; well-drained soil; hardy spring bulb.
+    @ Natural Habitat: Mediterranean Europe and North Africa.
+----------------------------------------------------
+[Dahlia:]
+    @ Common Name: Dahlia
+    @ Scientific Name: Dahlia spp. (e.g. D. pinnata)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Dahlia
+    @ Species: many (hybrids from ~40 wild Mexican species)
+    @ ----
+    @ Floriography: Symbolizes dignity, elegance, and enduring grace; also a symbol of commitment and a lasting bond.
+    @ Etymology: Named after Swedish botanist Andreas Dahl; no mythological origin.
+    @ ----
+    @ Flower Color/s: Very wide range – red, pink, yellow, orange, white, purple, multicolored, etc.
+    @ Petal Count/s: Many (daisy-type to fully double; dozens to hundreds in pompon varieties).
+    @ Petal Shape/s: Varies by form – from flat rays to rolled tubular petals (decorative vs. ball types).
+    @ Fragrance: Little to none (mostly ornamental, not fragrance-bred).
+    @ Height: 30 cm (dwarf) up to 2 m (tall decorative types).
+    @ Stem Type: Erect, branching from tuber (usually one main stem with lateral branches).
+    @ Root Type: Tubers (fleshy storage roots).
+    @ Bloom Shape: Very diverse – from single daisies to elaborate pompom balls.
+    @ Texture: Petals often firm, waxy, in double forms numerous and layered.
+    @ ----
+    @ Bloom Calendar: Mid-summer to first frost (July–October).
+    @ Seasonal Conditions: Full sun; moderately fertile soil; tubers dug or protected in winter where not hardy.
+    @ Natural Habitat: Mountains of Mexico and Central America (dahlia is the national flower of Mexico).
+----------------------------------------------------
+[Daisy:]
+    @ Common Name: Daisy (common daisy)
+    @ Scientific Name: Bellis perennis (English daisy) or generically any similar flower (e.g., Leucanthemum vulgare, Gerbera jamesonii).
+    @ Cultivar: –
+    @ ----
+    @ Family: Asteraceae (daisy family)【source】
+    @ Genus: Bellis (for B. perennis)
+    @ Species: perennis (for English daisy)
+    @ ----
+    @ Floriography: Symbolizes innocence, purity, and loyal love; daisies are often given to express innocence or unconditional love.
+    @ Etymology: “Daisy” derives from “day’s eye” (Old English dægeseage) as it opens at dawn. Bellis from Latin “beauty,” and perennis “everlasting.”
+    @ ----
+    @ Flower Color/s: White petals with yellow center (English daisy). Other "daisies" (shasta, Gerbera) have varied colors.
+    @ Petal Count/s: Many (13–20+ ray florets around yellow disk in common daisy).
+    @ Petal Shape/s: Narrow, spoon-tipped rays forming a flat disk around central yellow.
+    @ Fragrance: Mild grassy scent (often considered insignificant).
+    @ Height: 5–15 cm (English daisy); garden perennials (shasta) 30–90 cm; annuals vary.
+    @ Stem Type: Short, slender stalk (petiole) in perennials; longer in taller daisy types.
+    @ Root Type: Fibrous mat (English daisy) or rhizomatous (shasta).
+    @ Bloom Shape: Classic daisy head – flat composite disk.
+    @ Texture: Soft, delicate petals; central disk slightly coarse.
+    @ ----
+    @ Bloom Calendar: Early spring through summer (English daisy); others summer peak.
+    @ Seasonal Conditions: Sun to part shade; cool-season hardy.
+    @ Natural Habitat: Europe (English daisy naturalized widely), widely cultivated species globally.
+----------------------------------------------------
+[Daphne:]
+    @ Common Name: Daphne (fragrant shrub)
+    @ Scientific Name: Daphne spp. (e.g., D. odora)
+    @ Cultivar: –
+    @ ----
+    @ Family: Thymelaeaceae
+    @ Genus: Daphne
+    @ Species: D. odora, D. mezereum, etc.
+    @ ----
+    @ Floriography: Symbolizes vigilance and danger (some species are poisonous); also considered a subtle and delicate flower, often associated with inner strength due to its hard wood and fragrant blooms.
+    @ Etymology: Named after the nymph Daphne (from Greek myth), who was turned into a laurel.
+    @ ----
+    @ Flower Color/s: Pink to white (often pink buds opening to white); some red fruit.
+    @ Petal Count/s: 5 (fused into a tube with spreading lobes)【source】.
+    @ Petal Shape/s: Tubular with flaring petal lobes.
+    @ Fragrance: Very fragrant (strongly sweet, often noted in winter/early spring).
+    @ Height: 30–100 cm (shrub).
+    @ Stem Type: Woody, slender branches.
+    @ Root Type: Woody roots.
+    @ Bloom Shape: Small tubular clusters (umbels) of fragrant flowers at branch ends.
+    @ Texture: Waxy petals; leaves leathery.
+    @ ----
+    @ Bloom Calendar: Winter to early spring (depending on species; e.g., D. odora blooms in Feb–Mar).
+    @ Seasonal Conditions: Part shade; well-drained soil; tolerant of cool climates but prefers sheltered sites.
+    @ Natural Habitat: Asia and Europe (woodlands, thickets).
+----------------------------------------------------
+[Daylily:]
+    @ Common Name: Daylily
+    @ Scientific Name: Hemerocallis spp. (commonly H. fulva)
+    @ Cultivar: –
+    @ ----
+    @ Family: Asphodelaceae (formerly Liliaceae)【source】
+    @ Genus: Hemerocallis
+    @ Species: H. fulva (orange daylily), plus many hybrid cultivars.
+    @ ----
+    @ Floriography: Symbolizes coquetry (because each bloom lasts just one day) and motherhood; also represents enthusiasm and ephemeral beauty.
+    @ Etymology: From Greek hēmera (“day”) + kalos (“beautiful”), meaning “beautiful for a day.”
+    @ ----
+    @ Flower Color/s: Orange (wild H. fulva), also yellow, pink, red, bicolor in hybrids.
+    @ Petal Count/s: 6 (two sets of 3 tepals).
+    @ Petal Shape/s: Broad, funnel-shaped petals with curled edges.
+    @ Fragrance: Light to none (some yellow forms slightly fragrant at night).
+    @ Height: 30–90 cm (depending on cultivar).
+    @ Stem Type: Leafless scapes (flower stalks) emerging from clump of leaves.
+    @ Root Type: Fibrous or fleshy roots in clump-forming crown.
+    @ Bloom Shape: Large, open trumpet or funnel flowers with flared petals and a prominent throat (some have double blooms).
+    @ Texture: Velvety, soft petals.
+    @ ----
+    @ Bloom Calendar: Summer (June–August, each flower opens one day, but plant blooms over weeks).
+    @ Seasonal Conditions: Full sun; moist, fertile soil; hardy perennial.
+    @ Natural Habitat: Native to Asia (often in streambanks and grassy slopes).
+----------------------------------------------------
+[Delphinium:]
+    @ Common Name: Delphinium, Larkspur
+    @ Scientific Name: Delphinium elatum (tall larkspur) and others
+    @ Cultivar: –
+    @ ----
+    @ Family: Ranunculaceae (buttercup family)【source】
+    @ Genus: Delphinium
+    @ Species: D. elatum (common tall hybrids)
+    @ ----
+    @ Floriography: Symbolizes dignity, grace, and levity; historically associated with lightness and ardent attachment. The tall spires can also signify reaching for the sky or aspiration.
+    @ Etymology: From Greek delphis (“dolphin”), as buds of some species resemble a dolphin’s shape. The old common name “larkspur” comes from the shape resembling a lark’s claw.
+    @ ----
+    @ Flower Color/s: Blue, purple, white, pink, occasionally red.
+    @ Petal Count/s: 5 petals (spurred upper petal, 4 others) plus bracts (sepals) that look like petals.
+    @ Petal Shape/s: Irregular (bilaterally symmetrical) flowers with a nectar spur at back.
+    @ Fragrance: None or slight green scent.
+    @ Height: 0.5–2 m (tall hybrids, dwarf varieties also exist).
+    @ Stem Type: Erect, unbranched stems with spikes of flowers.
+    @ Root Type: Tuberous or deeply rooted.
+    @ Bloom Shape: Tall spikes of open-faced irregular blooms.
+    @ Texture: Delicate, papery petals; foliage deeply lobed.
+    @ ----
+    @ Bloom Calendar: Early summer (June-July).
+    @ Seasonal Conditions: Full sun; rich, well-drained soil; often grown as annual or short-lived perennial in temperate regions.
+    @ Natural Habitat: Temperate regions (Asia, N. America) – mountain meadows.
+----------------------------------------------------
+[Dianthus:]
+    @ Common Name: Carnation (Dianthus); includes Sweet William, Pinks, etc.
+    @ Scientific Name: Dianthus caryophyllus (carnation), D. barbatus (Sweet William), D. plumarius (garden pinks)
+    @ Cultivar: –
+    @ ----
+    @ Family: Caryophyllaceae (pink family)【source】
+    @ Genus: Dianthus
+    @ Species: various (garden sweet william, carnations, pinks)
+    @ ----
+    @ Floriography: Carnations symbolize love (especially pink for motherly love), fascination, and distinction; Sweet William represents gallantry. Pinks (D. plumarius) symbolize purity and good luck. Overall the genus stands for boldness and passion.
+    @ Etymology: Dianthus from Greek dios anthos meaning “flower of Zeus” (among the gods). caryophyllus means “nut-kernel leaf” (clove-scented leaves).
+    @ ----
+    @ Flower Color/s: Red, pink, white, yellow, green, bicolor; heavily cultured array.
+    @ Petal Count/s: 5 (often fringed or notched)【source】.
+    @ Petal Shape/s: Round petals with fringed or smooth margins. Carnations have many overlapping petals in double blooms; Sweet William flat clusters.
+    @ Fragrance: Sweet, spicy clove-like scent (especially carnations).
+    @ Height: 30–90 cm (carnations ~40-60 cm, Sweet William ~20-60 cm).
+    @ Stem Type: Erect, leafy stems (often woody base in carnations).
+    @ Root Type: Fibrous (perennials); biennial (Sweet William).
+    @ Bloom Shape: Frilly, full carnations; flat-topped umbels in Sweet William; single in border pinks.
+    @ Texture: Soft, ruffled petals; fragrance note is spicy.
+    @ ----
+    @ Bloom Calendar: Carnations and Sweet Williams bloom late spring to summer; border pinks late spring.
+    @ Seasonal Conditions: Full sun; well-drained alkaline soil; carnations often grown as annual/perennial.
+    @ Natural Habitat: Europe and Asia (rocky areas, grassy slopes).
